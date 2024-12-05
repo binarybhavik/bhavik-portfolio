@@ -22,11 +22,7 @@ const Experience = () => {
             iconStyle={{ background: '#fff' }}
             icon={
               <a className='flex justify-center items-center w-full h-full' href={experience.url} target='_blank'>
-                <img
-                  src={experience.logo}
-                  alt={experience.company}
-                  className='w-[60%] h-[60%] object-contain'
-                />
+                
               </a>
             }
           >
