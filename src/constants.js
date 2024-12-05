@@ -28,7 +28,7 @@ export const experiences = [
             'Adding Multiple backend services and have to create database in the future',
             'And have details about the college about section an maps which shows its geomatric location its past acheivment and celebration.'
         ],
-        'url': 'https://inncircles.com/#home',
+        'url': '',
     },
     {
         'company': 'Witty Hacks',
@@ -39,7 +39,7 @@ export const experiences = [
             'Gained so much experince while working on the real time problem situation and watching everyone working on it and seems facinating',
             'Made a Project Named as "Le Chalo" which majorly helps to reduce vehicle on the road by taking the lift approach with the help ho interface or mobile app where user can engage actively for any ride seeker or vica versa'
         ],
-        'url': 'https://www.att.com/',
+        'url': '',
     },
 ]
 

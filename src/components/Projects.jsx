@@ -67,11 +67,11 @@ export const project = [
         technologies:['HTML' ,'CSS' , 'JavaScript']
     },
     {
-        title:'Snap Shot',
-        description:'SnapShot is a stunning portfolio that I exclusively designed using React JS and tailwind CSS.This Project serves as a representation of a photographer’s work, highlighting their portfolio and services.',
+        title:'Shopping Bandhu',
+        description:'It helps to reduce the long queus and save time. It i basically a self billing machine where you put the product in it while scanning it and all data get stored in database and bill will be directly generated to the mobile',
         image: {copeople},
         git:"https://github.com/binarybhavik",
-        technologies:[ 'React JS', 'tailwind CSS']
+        technologies:[ 'Arduino', 'HTML and CSS']
     }
 ]
 
